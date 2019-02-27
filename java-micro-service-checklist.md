@@ -20,5 +20,5 @@ This is a quick check list of some low level best practices. There may be more v
 * Exception Handling, error codes
 * Document Validation, Request validation
 * RestTemplate connection pooling
-
+* Checkstyle, Findbugs, Cobertura/Jacoco, Sonarcube
 
